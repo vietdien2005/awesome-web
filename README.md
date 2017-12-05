@@ -1131,7 +1131,6 @@
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Snap.png" height="16"> [Snap](http://snapframework.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Swiftlet.png" height="16"> [Swiftlet](http://swiftlet.org)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Symfony.png" height="16"> [Symfony](http://symfony.com)
-- <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/ThinkPHP.png" height="16"> [ThinkPHP](http://www.thinkphp.cn)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/total.js.png" height="16"> [total.js](http://totaljs.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/TwistPHP.png" height="16"> [TwistPHP](http://twistphp.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/uCore.png" height="16"> [uCore](http://ucore.io)
