@@ -2,6 +2,8 @@
 # Web Awesome 🚀🚀🚀
 [![Awesome-Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/vietdien2005/awesome-web.svg?branch=master)](https://travis-ci.org/vietdien2005/awesome-web) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/vietdien2005) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 > A curated list of awesome resources for web developers.
+> If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/vietdien2005/awesome-web/blob/master/CONTRIBUTING.md).
+> Please note a passing build status indicates all listed links are available since the last update. A failing build status indicates that 1 or more links may be unavailable at the moment.
 
 ## Contents 📰
 
