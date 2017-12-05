@@ -1,10 +1,9 @@
-# Web Awesome [![Awesome-Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/vietdien2005/awesome-web.svg?branch=master)](https://travis-ci.org/vietdien2005/awesome-web) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/vietdien2005)
-
+![Awesome-Logo](https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg)
+# Web Awesome 🚀🚀🚀
+[![Awesome-Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/vietdien2005/awesome-web.svg?branch=master)](https://travis-ci.org/vietdien2005/awesome-web) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/vietdien2005) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 > A curated list of awesome resources for web developers.
 
-![Awesome-Logo](https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg)
-
-## Contents
+## Contents 📰
 
 - [Accounting](#accounting)
 - [Advertising Networks](#advertising-networks)
