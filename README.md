@@ -1326,3 +1326,13 @@
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/TWiki.png" height="16"> [TWiki](http://twiki.org)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Wikispaces.png" height="16"> [Wikispaces](http://www.wikispaces.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/WikkaWiki.png" height="16"> [WikkaWiki](http://wikkawiki.org)
+
+## How to Contribute
+
+Please read [CONTRIBUTING](/CONTRIBUTING.md).
+
+## How to Share
+
+* [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/vietdien2005/awesome-web&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
+* [Share on Google Plus](https://plus.google.com/share?url=https://github.com/vietdien2005/awesome-web)
+* [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/vietdien2005/awesome-web&title=Awesome%20Stock%20Resources&summary=&source=)
