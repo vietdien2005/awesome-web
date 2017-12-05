@@ -967,7 +967,7 @@
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Fedora.png" height="16"> [Fedora](http://fedoraproject.org)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/FreeBSD.png" height="16"> [FreeBSD](http://freebsd.org)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Gentoo.png" height="16"> [Gentoo](http://www.gentoo.org)
-- <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/M.R.%20Inc.png" height="16"> [M.R. Inc BoxyOS](http://mrincworld.com)
+- <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/MRInc.png" height="16"> [M.R. Inc BoxyOS](http://mrincworld.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Raspbian.svg" height="16"> [Raspbian](https://www.raspbian.org/)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Red Hat.png" height="16"> [Red Hat](http://redhat.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Scientific Linux.png" height="16"> [Scientific Linux](http://scientificlinux.org)
@@ -1033,7 +1033,7 @@
 ## Rich Text Editors
 
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/CKEditor.png" height="16"> [CKEditor](http://ckeditor.com)
-- <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/etherpad.png" height="16"> [Etherpad](https://etherpad.org)
+- <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/etherpad.png" height="16"> [Etherpad](http://etherpad.org)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/FreeTextBox.png" height="16"> [FreeTextBox](http://freetextbox.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Froala.svg" height="16"> [Froala Editor](http://froala.com/wysiwyg-editor)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Quill.png" height="16"> [Quill](http://quilljs.com)
@@ -1168,7 +1168,6 @@
 
 ## Web Servers
 
-- <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/3ware.png" height="16"> [3ware](http://www.3ware.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/actionhero.js.png" height="16"> [actionhero.js](http://www.actionherojs.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/akka-http.png" height="16"> [Akka HTTP](http://akka.io)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Allegro RomPager.png" height="16"> [Allegro RomPager](http://allegrosoft.com/embedded-web-server-s2)
@@ -1309,7 +1308,6 @@
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Po.st.png" height="16"> [Po.st](http://www.po.st/)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Proximis Omnichannel.png" height="16"> [Proximis Web to Store](https://www.proximis.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/ShareThis.png" height="16"> [ShareThis](http://sharethis.com)
-- <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Shopalize.png" height="16"> [Shopalize](http://shopalize.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Stackla.png" height="16"> [Stackla](http://stackla.com/)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/SumoMe.png" height="16"> [SumoMe](http://sumome.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Twitter.svg" height="16"> [Twitter](http://twitter.com)
