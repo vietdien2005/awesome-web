@@ -1,6 +1,6 @@
 ![Awesome-Logo](https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg)
 # Web Awesome 🚀🚀🚀
-[![Awesome-Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/vietdien2005/awesome-web.svg?branch=master)](https://travis-ci.org/vietdien2005/awesome-web) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/vietdien2005) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Awesome Web Badge](https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/awesome-web.svg)](https://github.com/vietdien2005/awesome-web)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Awesome-Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/vietdien2005/awesome-web.svg?branch=master)](https://travis-ci.org/vietdien2005/awesome-web) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/vietdien2005) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Maintainability](https://api.codeclimate.com/v1/badges/7637a14bf4d031f6bc89/maintainability)](https://codeclimate.com/github/vietdien2005/awesome-web/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/7637a14bf4d031f6bc89/test_coverage)](https://codeclimate.com/github/vietdien2005/awesome-web/test_coverage) [![Awesome Web Badge](https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/awesome-web.svg)](https://github.com/vietdien2005/awesome-web)
 > A curated list of awesome resources for web developers.
 
 > If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/vietdien2005/awesome-web/blob/master/CONTRIBUTING.md).
@@ -1335,13 +1335,13 @@ Here awesome badge for your project:
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/Wikispaces.png" height="16"> [Wikispaces](http://www.wikispaces.com)
 - <img src="https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/icons/WikkaWiki.png" height="16"> [WikkaWiki](http://wikkawiki.org)
 
-## How to Share
+## 😇 How to Share
 
 * [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/vietdien2005/awesome-web&p[images][0]=&p[title]=Awesome%20Stock%20Resources&p[summary]=)
 * [Share on Google Plus](https://plus.google.com/share?url=https://github.com/vietdien2005/awesome-web)
 * [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url=https://github.com/vietdien2005/awesome-web&title=Awesome%20Stock%20Resources&summary=&source=)
 
-## How to Contribute
+## 💖 How to Contribute
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md) before submitting your suggestion.
 
