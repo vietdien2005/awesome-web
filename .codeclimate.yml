@@ -13,6 +13,9 @@ engines:
       - config/engines.yml
   markdownlint:
     enabled: true
+    checks:
+      MD013:
+        enabled: false
   shellcheck:
     enabled: true
 ratings:
