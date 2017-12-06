@@ -1,4 +1,4 @@
-![Awesome-Logo](https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg)
+![Awesome-Logo](media/awesome.svg)
 # Web Awesome 🚀🚀🚀 [![Awesome-Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome Web Badge](https://cdn.rawgit.com/vietdien2005/web-awesome/master/media/awesome-web.svg)](https://github.com/vietdien2005/awesome-web)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Build Status](https://travis-ci.org/vietdien2005/awesome-web.svg?branch=master)](https://travis-ci.org/vietdien2005/awesome-web) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/vietdien2005) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Maintainability](https://api.codeclimate.com/v1/badges/7637a14bf4d031f6bc89/maintainability)](https://codeclimate.com/github/vietdien2005/awesome-web/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/7637a14bf4d031f6bc89/test_coverage)](https://codeclimate.com/github/vietdien2005/awesome-web/test_coverage)
 > A curated list of awesome resources for web developers.
@@ -71,7 +71,7 @@ Here awesome badge for your project:
 - [Widgets](#widgets)
 - [Wikis](#wikis)
 
-## Accounting 
+## Accounting
 
 - <img src="media/icons/akaunting.svg" height="16">  [Akaunting](https://akaunting.com/)
 
