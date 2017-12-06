@@ -16,6 +16,8 @@ engines:
     checks:
       MD013:
         enabled: false
+      MD033:
+        enabled: false
   shellcheck:
     enabled: true
 ratings:
