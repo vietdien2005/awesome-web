@@ -1348,3 +1348,9 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md) before submitting your suggestion.
 Feel free to [open an issue](https://github.com/vietdien2005/awesome-web/issues) or [create a pull request](https://github.com/vietdien2005/awesome-web/pulls) with your additions.
 
  🌻 Thank you!
+
+ ## 🍺 Donate 🍺
+
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/1Cvk2WP8rfhhcKLBgxxK1e6bo5ffRYhQm1)](https://en.cryptobadges.io/donate/1Cvk2WP8rfhhcKLBgxxK1e6bo5ffRYhQm1)
+
+[![Donate with Ethereum](https://en.cryptobadges.io/badge/big/0x0D0A378451a1D32082d08981d9DD9d8cD1773539)](https://en.cryptobadges.io/donate/0x0D0A378451a1D32082d08981d9DD9d8cD1773539)
